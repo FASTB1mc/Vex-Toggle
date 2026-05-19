@@ -3,6 +3,6 @@ A Minecraft datapacks that allows you to use /trigger to allow Vexes to spawn or
 
 USAGE:
 
-To turn off Vex spawning: /trigger VexOff
+To turn off Vex spawning: /trigger vexoff
 
-To turn on Vex spawning: /trigger VexOn
+To turn on Vex spawning: /trigger vexon
