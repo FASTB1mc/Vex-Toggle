@@ -9,3 +9,7 @@ execute as @a[score={timer=0}] run kill @e[type=vex]
 
 #Resets timer so kill command can run again
 execute as @a[score={timer>=1}] run scoreboard players set @a[score={timer=1}] timer 1
+
+#Allows the players to run the commands again
+scoreboard players enable @a vexon
+scoreboard players enable @a vexoff
