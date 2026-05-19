@@ -5,4 +5,4 @@ scoreboard players set @a timer 1
 scoreboard players set @a vexoff 0
 
 #Message that tells players that Vexes are off
-say @a Vexes are off
+tellraw @a {"text":"Vexes are disabled!","color":"aqua"}
