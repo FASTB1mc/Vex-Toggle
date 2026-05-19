@@ -3,6 +3,7 @@ scoreboard players set @a timer 1
 
 #Resets VexOff scoreboard so it can be run again
 scoreboard players set @a vexoff 0
+scoreboard players enable @a vexoff
 
 #Message that tells players that Vexes are off
 tellraw @a {"text":"Vexes are enabled!","color":"aqua"}
