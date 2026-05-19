@@ -3,3 +3,6 @@ scoreboard players set @a timer 0
 
 #Resets VexOn scoreboard so it can be run again
 scoreboard players set @a vexon 0
+
+#Message that tells players if vexes are off
+say @a Vexes are off
