@@ -5,4 +5,4 @@ execute if score @a vexoff matches 1 run function vext:off
 execute if score @a vexon matches 1 run function vext:on
 
 #Should run the kill command whenever timer is at 0
-execute as @a[score={timer=0}] run kill @e[type=vex]
+execute if score @a timer matches 0 run kill @e[type=minecraft:vex]
