@@ -1,7 +1,6 @@
 {
   "pack": {
-    "description": "A datapack allowing the toggling of Vex spawning",
+    "description": "Toggle Vexes at your will! Made by FASTB1",
     "pack_format": 94
   }
 }
-#94 for pack_format is 1.21.11
