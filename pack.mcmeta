@@ -1,7 +1,6 @@
 {
   "pack": {
     "description": "Toggle Vexes at your will! Made by FASTB1",
-    "min_format": 48,
-    "max_format": 94.1
+    "pack_format": 88.0
   }
 }
