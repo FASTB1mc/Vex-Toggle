@@ -6,3 +6,5 @@ USAGE:
 To turn off Vex spawning: /trigger vexoff
 
 To turn on Vex spawning: /trigger vexon
+
+Download Avalible at https://modrinth.com/datapack/vex-toggle
